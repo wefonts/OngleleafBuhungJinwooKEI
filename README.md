@@ -1,1 +1,16 @@
-# OngleleafBuhungJinwooKEI
+<pre>
+@font-face {
+    font-family: "OngleleafBuhungJinwooKEI";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungJinwooKEI/OngleleafBuhungJinwooKEI.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungJinwooKEI/OngleleafBuhungJinwooKEI.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafBuhungJinwooKEI/OngleleafBuhungJinwooKEI.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleleafBuhungJinwooKEI {
+    font-family: "OngleleafBuhungJinwooKEI";
+}
+  
+</pre>
